@@ -1,5 +1,5 @@
-Link of Tribute Page - https://dasjideepak.github.io/fcc-tribute-page/
+This is a tribute page to **Narendra Modi, Prime Minister of India** project of FreeCodeCamp Responsive Design Certification.
 
-Created a Tribute Page Project for FreeCodeCamp Responsive Web Design Certification. This is a project of freeCodeCamp Responsive Webdesign Certification
+### To Check Tribue Page - [Click Here](https://dasjideepak.github.io/fcc-tribute-page/).
 
 ![Image of Tribute Page](tribute-page.png)
