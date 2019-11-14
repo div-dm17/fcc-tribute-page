@@ -1,1 +1,90 @@
+body
+{
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
 
+#main{
+  background-color:#c7c1c2;   
+  margin-top:-30px;
+  padding-top:45px;
+  padding-left:0px;
+  padding-right:0px;
+  padding-bottom:10px;
+}
+
+#section1{
+  padding-top:20px;
+}
+
+h1{
+  color:black;;
+  font-size:40px;
+  font-weight: bold;
+}
+
+p {
+  font-size:20px;
+  margin-top:10px;
+  font-weight: bold;
+}
+
+#section2{
+  background-color:white;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+#image{
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#img-caption{
+    font-size:100%;
+    color:black;
+    text-align:center;
+    margin-top:10px;
+  }
+
+#tribute-info{
+  font-size:20px;
+  color:black;
+}
+
+li {
+  margin: 16px 30px;
+  text-align:justify;
+  font-size:15px;
+  margin-left:40px;
+  margin-right:40px;
+}
+
+
+#tribute-link {
+  font-weight:bold;
+}
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
